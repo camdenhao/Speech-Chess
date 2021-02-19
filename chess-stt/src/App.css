@@ -1,0 +1,87 @@
+.App {
+  background: #45b6fe;
+  font-family: 'Courier';
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.rules{
+  color: white; 
+  text-align: left;
+  margin-left: 30px; 
+  line-height: 200%;
+}
+.flex-container{
+  display: flex
+}
+
+.Input{
+  font-size: 40px;
+  text-align: center;
+}
+
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased !important;
+  color: #222;
+  margin: auto;
+  width: 400px;
+}
+
+.footer {
+  margin: 50px 10px 0 10px;
+  padding: 10px;
+  border-top: #ddd solid 1px;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.react-scrollable-list {
+  height: 600px;
+  width: 400px;
+  overflow-y: scroll;
+}
+
+.react-scrollable-list-item {
+  height: 30px;
+  padding: 5px; 
+  color:black;
+  pointer-events: none;
+  text-align: center;
+}
+
+button {
+  background-color: transparent; 
+  border: 5px solid black;
+  color: black;
+  border-radius: 3px;
+  width: 200px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: Courier;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.boardsContainer {
+  display: "flex";
+  justify-content: "space-around";
+  align-items: "center";
+  flex-wrap: "wrap";
+  width: "100vw";
+  margin-top: 30;
+  margin-bottom: 5;
+}
+
+.instructions {
+  text-align: left;
+  color: black;
+  margin-left: 30px;
+};

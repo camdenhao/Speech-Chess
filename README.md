@@ -2,7 +2,7 @@
 Voice Command Chess Board 
 
 # Setup 
-Make sure to have yarn and node installed 
+Requires yarn and node 
 
 Follow quick setup with Googe Cloud: https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries
 

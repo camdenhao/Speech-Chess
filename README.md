@@ -14,5 +14,5 @@ Install Chessboard JSX component as well as chess.js library for move validation
 
 >npm install chess.js 
 
-# NOTE: This will now work without setting up your own Google project or getting credentials from me 
+# NOTE: This will not work without setting up your own Google project or getting credentials from me 
 

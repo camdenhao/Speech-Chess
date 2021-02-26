@@ -1,5 +1,5 @@
 # Speech-Chess
-Voice Command Chess Board 
+Voice Command Chess Board utilizing Google's speech-to-text API and nodeJS
 
 # Setup 
 Requires yarn and node 

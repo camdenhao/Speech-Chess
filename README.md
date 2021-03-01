@@ -14,5 +14,12 @@ Install Chessboard JSX component as well as chess.js library for move validation
 
 >npm install chess.js 
 
+# Running: 
+Navigate to chess-stt directory and enter: 
+>npm start
+
+Then, in a separate terminal, navigate to api directory and enter:
+>npm start
+
 # NOTE: This will not work without setting up your own Google project or getting credentials from me 
 
